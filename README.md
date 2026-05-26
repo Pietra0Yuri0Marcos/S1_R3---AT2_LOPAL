@@ -1,27 +1,28 @@
 ﻿# S1_R3---AT2_LOPAL
  link para o google collab: https://colab.research.google.com/drive/1Wx-ZeDsSdw0JTlM686mbFDbDRe0nT40P#scrollTo=ux5lpqK0bQlZ
 
-# O que cada comando faz:
-for i in: repete algo várias vezes
+## O que cada comando utilizado faz:
 
-while: repete enquanto a condição for verdadeira
+**for i in:** Repete algo várias vezes;
 
-break: para o loop
+**while:** Repete enquanto a condição for verdadeira;
 
-len: mostra o tamanho
+**break:** Para o loop;
 
-.sort: organiza a lista
+**len:** Mostra o tamanho;
 
-range: cria sequência de números
+**.sort:** Organiza a lista;
 
-name[:i]: pega parte do texto/lista
+**range:** Cria sequência de números;
 
-.append: adiciona item na lista
+**name[:i]:** Pega parte do texto/lista;
 
-.reverse: inverte a lista
+**.append:** Adiciona item na lista;
 
-.upper: deixa maiúsculo
+**.reverse:** Inverte a lista;
 
-.lower: deixa minúsculo
+**.upper:** Deixa maiúsculo;
 
-.strip: remove espaços extras
+**.lower:** Deixa minúsculo;
+
+**.strip:** Remove espaços extras.
